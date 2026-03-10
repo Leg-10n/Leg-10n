@@ -8,7 +8,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=58&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Hi%2C+I'm+Kevin." alt="Hi, I'm Kevin."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=58&duration=1&pause=9999999&color=00FF9C&center=true&vCenter=true&repeat=false&width=700&height=80&lines=I+build+real+software." alt="Aspiring Software Engineer."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=58&duration=1&pause=9999999&color=00FF9C&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Aspiring+Software+Engineer." alt="Aspiring Software Engineer."/>
 
 </div>
 
