@@ -1,134 +1,105 @@
-<div align="center">
-
-```
-██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
-█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
-
-### `> backend engineer _ system builder _ pixel pusher`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+real-time+systems+that+don't+fall+over.;FastAPI+%2B+Docker+%2B+distributed+systems.;Currently+exploring%3A+how+big+apps+stay+fast.;If+not+coding%2C+probably+gaming.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Leg-10n&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00FF9C&text_color=ffffff&icon_color=00FF9C" />
-
-## `whoami`
-
-```python
-class Kevin:
-    name     = "Kevin Monga"
-    role     = "Backend Engineer"
-    location = "🌍 Earth"
-
-    stack = {
-        "languages": ["Python", "TypeScript", "Java", "JS"],
-        "backend":   ["FastAPI", "REST APIs", "JWT Auth"],
-        "infra":     ["Docker", "Kubernetes", "Nginx"],
-        "frontend":  ["React", "Vue.js"],
-        "interests": ["real-time systems", "distributed arch",
-                      "computer vision", "scale"]
-    }
-
-    currently = [
-        "📡 Building real-time data pipelines",
-        "📦 Learning distributed systems",
-        "🎮 Gaming when the debugger finally wins"
-    ]
-
-    def collaborate(self):
-        return "Open to any fun idea → real app pipeline 🚀"
-```
-
-<br clear="right"/>
-
----
-
-## `> tech_stack --all`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a2e0a,100:000000&height=280&section=header&text=KEVIN%20MONGA&fontSize=80&fontColor=39FF14&animation=fadeIn&fontAlignY=45&stroke=39FF14&strokeWidth=1&desc=SOFTWARE%20ENGINEER&descSize=20&descColor=ffffff&descAlignY=68&fontAlign=50"/>
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FF9C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00FF9C)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=00FF9C)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=00FF9C)
-![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF9C)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00FF9C)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=for-the-badge&logo=vuedotjs&logoColor=00FF9C)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=500&color=39FF14&center=true&vCenter=true&width=700&lines=_%3E+backend+systems+that+don't+fold+under+pressure;_%3E+real-time+data+%2F+distributed+architecture;_%3E+FastAPI+%7C+Docker+%7C+K8s+%7C+computer+vision;_%3E+idea+%E2%9E%94+shipped+product+%E2%80%94+that's+the+job;_%3E+not+coding%3F+probably+winning+a+ranked+game)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## `> git log --stats`
+<br/>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Leg-10n&theme=dark&hide_border=true&background=0d0d0d&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leg-10n&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=00FF9C&text_color=ffffff" width="40%" />
+[![Portfolio](https://img.shields.io/badge/◉_PORTFOLIO-000?style=for-the-badge&logoColor=39FF14&color=000&labelColor=0a1a0a)](https://leg-10n.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/◉_LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=39FF14&color=000&labelColor=0a1a0a)](https://linkedin.com/in/kevin-monga-a4932031a)
+[![Instagram](https://img.shields.io/badge/◉_INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=39FF14&color=000&labelColor=0a1a0a)](https://instagram.com/k3v__v1n)
+[![Email](https://img.shields.io/badge/◉_EMAIL-000?style=for-the-badge&logo=gmail&logoColor=39FF14&color=000&labelColor=0a1a0a)](mailto:kevin.monga17@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=Leg-10n&color=39FF14&style=for-the-badge&label=VIEWS)](https://github.com/Leg-10n)
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leg-10n&bg_color=0d0d0d&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
+<br/>
 
 ---
 
-## `> ask_me_about`
+<br/>
 
 <div align="center">
-
-| Topic | Level |
-|---|---|
-| 🚀 FastAPI & REST API design | `████████████ expert` |
-| 🐳 Docker & containerization | `██████████░░ strong` |
-| 📡 Real-time notifications | `██████████░░ strong` |
-| ☸️ Kubernetes | `████████░░░░ growing` |
-| 👁️ Computer vision | `████████░░░░ growing` |
-| 📐 Distributed systems | `██████░░░░░░ learning` |
-
+<img src="https://github-readme-stats.vercel.app/api?username=Leg-10n&hide_border=true&show_icons=true&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&include_all_commits=true&count_private=true&rank_icon=github&ring_color=39FF14" height="175"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leg-10n&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff&include_all_commits=true&count_private=true" height="175"/>
 </div>
+
+<br/>
+
+<div align="center">
+<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=Leg-10n&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a3a1a"/>
+</div>
+
+<br/>
 
 ---
 
-## `> connect --open`
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Leg-10n&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=0a2e0a&hide_border=true&custom_title=ACTIVITY">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leg-10n&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=0a2e0a&hide_border=true&custom_title=ACTIVITY"/>
+</picture>
+
+<br/><br/>
+
+---
+
+## ⚡ ARSENAL
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0d0d0d?style=for-the-badge&logoColor=00FF9C)](https://leg-10n.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/kevin-monga-a4932031a)
-[![Instagram](https://img.shields.io/badge/◈_Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=00FF9C)](https://instagram.com/k3v__v1n)
-[![Email](https://img.shields.io/badge/◈_Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:kevin.monga17@gmail.com)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=39FF14&labelColor=000)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=39FF14&labelColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14&labelColor=000)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=39FF14&labelColor=000)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=39FF14&labelColor=000)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=39FF14&labelColor=000)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=39FF14&labelColor=000)
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=39FF14&labelColor=000)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs&logoColor=39FF14&labelColor=000)
 
 </div>
 
+<br/>
+
 ---
+
+## 🏆 TROPHIES
+
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Leg-10n&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ```
-// always open to a good idea. let's build something.
+██████████████████████████████████████████████████
+█                                                █
+█     I BUILD SYSTEMS. I SHIP PRODUCTS.          █
+█     THE REST IS JUST NOISE.                    █
+█                                                █
+██████████████████████████████████████████████████
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leg-10n&color=00FF9C&style=flat-square&label=profile+views)
-
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a2e0a,100:000000&height=120&section=footer&fontColor=39FF14"/>
