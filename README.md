@@ -1,48 +1,80 @@
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=80&section=header&animation=fadeIn"/>
+<div align="center">
 
-<br/>
+<pre style="color:#3fb950; background:#0d1117; padding:18px; border-radius:6px; border:1px solid #30363d">
 
-```
-╔═══════════════════════════════════════╗
-║   kevin monga                         ║
-║   software engineer                   ║
-║   backend · systems · infra           ║
-╚═══════════════════════════════════════╝
-```
+██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
+██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
+█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
+██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
+██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 
-<br/>
+</pre>
 
-> _building things that run in production and don't wake me up at 3am_
+<span style="color:#8b949e">Backend Engineer • Distributed Systems • Infrastructure</span>
 
-<br/>
+</div>
 
 ---
 
-**stack**
-
-```python
-languages  = ["Python", "TypeScript", "Java", "JavaScript"]
-backend    = ["FastAPI", "Docker", "Kubernetes", "Nginx"]
-frontend   = ["React", "Vue"]
-ml_cv      = ["OpenCV", "YOLO", "scikit-learn", "NumPy"]
-interests  = ["distributed systems", "real-time services", "computer vision"]
+```bash
+$ neofetch kevin
 ```
 
+```text
+Kevin@github
+-------------------------
+Role: Backend Engineer
+Focus: Systems & Infrastructure
+Education: Computer Science
+
+Stack:
+Python, Java, TypeScript, Rust
+FastAPI, Spring Boot
+Docker, Kubernetes, Redis
+
+Interests:
+Distributed systems
+Backend architecture
+Performance engineering
+Production systems
+```
+
 ---
 
-**find me**
+```bash
+$ current_focus
+```
 
-&nbsp;&nbsp;[`portfolio`](https://leg-10n.github.io/Portfolio) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/kevin-monga-a4932031a) &nbsp;·&nbsp; [`email`](mailto:kevin.monga17@gmail.com)
+```text
+→ Designing scalable backend services
+→ Improving system design knowledge
+→ Building production-style projects
+→ Learning infrastructure patterns
+```
 
 ---
 
-**stats**
+```bash
+$ links
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leg-10n&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C" height="140"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leg-10n&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="140"/>
+```text
+Portfolio   → https://leg-10n.github.io/Portfolio
+LinkedIn    → https://linkedin.com/in/kevin-monga-a4932031a
+Email       → kevin.monga17@gmail.com
+```
 
 ---
 
-<sub>focused on reliability · performance · production tooling</sub>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=60&section=footer"/>
+<pre style="color:#3fb950">
+
+Kevin@github:~$ engineer_loop
+
+Design → Build → Break → Fix → Optimize → Deploy
+
+</pre>
+
+</div>
